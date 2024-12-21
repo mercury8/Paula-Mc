@@ -34,7 +34,7 @@ const config: Config = {
           foreground: "hsl(var(--muted-foreground))",
         },
         accent: {
-          DEFAULT: "hsl(var(--accent))",
+          DEFAULT: "#fd5f04",
           foreground: "hsl(var(--accent-foreground))",
         },
         destructive: {
@@ -56,6 +56,9 @@ const config: Config = {
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",
         sm: "calc(var(--radius) - 4px)",
+      },
+      fontFamily: {
+        sans: ["Helvetica Neue", "sans-serif"],
       },
     },
     screens: {
