@@ -3,10 +3,11 @@
 import React, { useState, useEffect, useRef } from "react";
 
 const videoArray = [
+  "/videos/mo_salah_x_visa.mp4",
   "/videos/mr_vegas_cafe_30_master_online_(1080p).mp4",
   "/videos/REXONA_FEEL_THE_HEAT_030.mp4",
   "/videos/Vengeance_Nemesis.mp4",
-  "/videos/axa_-_give_them_a_break_(240p).mp4",
+  "/videos/adidas_(540p).mp4",
   // Add more videos here
 ];
 
