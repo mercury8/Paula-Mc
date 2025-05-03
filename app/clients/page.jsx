@@ -15,384 +15,509 @@ export default function home() {
         <h1 className="text-left text-2xl font-bold my-4">Clients</h1>
         <p className="text-white">
           <span className="text-accent">
-            <strong>Sports brands</strong>
+            <strong>Sports Clients</strong>
           </span>
           <br />
-          British Nike (Wayne Rooney)
+          Adidas (Mo Salah – Liverpool FC)
           <br />
-          Chevrolet
+          Alex Bank (Mo Salah – Liverpool FC)
           <br />
-          Dare2B skiwear
+          BRAUN (Dominic Calvert-Lewin – Everton FC)
           <br />
-          Foot Asylem
+          British Nike (Wayne Rooney – Manchester United FC)
           <br />
-          Gola trainers
+          Chevrolet (Glory Glory Manchester United FC – Legends: Bobby Charlton,
+          Denis Law, Lou Macari, Wayne Rooney, Robin Van Persie, Juan Mata, Park
+          Ji-Sung, David De Gea)
           <br />
-          JD Sport
+          EA Sports (Erling Haaland – Manchester City FC)
           <br />
-          Nike (Lunar Air) Mario Balotelli
+          Erdinger Beer (Jurgen Klopp – Liverpool FC Manager)
+          <br />
+          Gillette (Park Ji-Sung – Manchester United FC)
+          <br />
+          Gillette (Victor Lindelof – Manchester United FC)
+          <br />
+          Gillette (Raheem Sterling – Manchester City FC)
+          <br />
+          GLO (Odion Ighalo – Manchester United FC)
+          <br />
+          Google (Trent Alexander-Arnold – Liverpool FC)
+          <br />
+          Head &amp; Shoulders (Jo Hart – Manchester City FC)
+          <br />
+          Hyundai Cars (Steven Gerrard – Liverpool FC)
+          <br />
+          Levis (Marcus Rashford – Manchester United FC)
+          <br />
+          Crunchyroll (Lisandro Martinez – Manchester United FC)
+          <br />
+          Mountain View (Mo Salah – Liverpool FC)
+          <br />
+          Nike - Lunar Air (Mario Balotelli – Manchester United FC)
+          <br />
+          Nike – Footgolf (Wayne Rooney – Manchester United FC / Rory McIlroy –
+          Golfer)
+          <br />
+          Nivea For Men (Liverpool FC)
+          <br />
+          OKX (Manchester City FC – Steph Houghton, Nathan Ake, Kevin De Bruyne,
+          Erling Haaland, Phil Foden, Jack Grealish)
+          <br />
+          Opel Corsa (Jurgen Klopp – Liverpool FC Manager)
           <br />
           PUMA (Mario Balotelli)
           <br />
+          Prime Video (Paul Pogba – Manchester United FC)
+          <br />
+          Pepsi (Mo Salah – Liverpool FC)
+          <br />
+          Pepsi (Mo Salah &amp; Dejan Lovren – Liverpool FC)
+          <br />
+          Rexona Deodorant (Julian Alvarez – Manchester City FC)
+          <br />
           Saudi Telecom (Manchester United)
           <br />
-          SKY (Olympic Team &#8211; GB)
+          SKY Sports (Olympic Team – GB)
+          <br />
+          SKY Sports (Ben Stokes – Cricket Player)
+          <br />
+          SKODA Kodiaq (Bradley Wiggins – Tour De France)
+          <br />
+          TCL Inspire Greatness (Phil Foden – Manchester City FC &amp; Raphael
+          Varane – Manchester United FC)
           <br />
           Umbro (Manchester City)
           <br />
+          Under Armour (Trent Alexander-Arnold – Liverpool FC)
+          <br />
+          Vodafone (Mo Salah – Liverpool FC)
+          <br />
+          Vodafone (Cristiano Ronaldo and Ruud van Nistelrooy)
+          <br />
+          Wish (Paul Pogba – Manchester United FC)
+          <br />
+          Whoop (Virgil Van Dijk – Liverpool FC / Alex Honnold – Rock Climber)
+          <br />
           <span className="text-accent">
-            <strong>Fashion / Retail</strong>
+            <strong>Clients</strong>
           </span>
+          <br />
+          1 Direction (Pop band)
+          <br />
+          188 Bet
+          <br />
+          Adidas (Mo Salah – Liverpool FC)
+          <br />
+          Alrighi Bianchi (Furniture)
+          <br />
+          Alton Towers (Nemesis Reborn)
+          <br />
+          Alex Bank (Mo Salah – Liverpool FC)
+          <br />
+          Allied London
+          <br />
+          Appliances Online
+          <br />
+          Argent Property’s
+          <br />
+          Arthouse Wallpaper
+          <br />
+          Avalon Funeral Care (John Cleese – Monty Python)
+          <br />
+          Aviva
+          <br />
+          AXA Insurance (Give Them A Break)
+          <br />
+          BBC (Red Bee Media)
+          <br />
+          B&amp;Q (Kitchens &amp; Bathrooms)
+          <br />
+          BP Rewards Card
+          <br />
+          Baileys Irish Cream
+          <br />
+          Barbie
+          <br />
+          Barclays Bank
+          <br />
+          Benson’s for Beds
+          <br />
+          Bet 365
+          <br />
+          Bonjela
+          <br />
+          British Nike (Wayne Rooney – Manchester United FC)
+          <br />
+          BRAUN (Dominic Calvert-Lewin – Everton FC)
+          <br />
+          BRMB (Birmingham Hits Music Station)
+          <br />
+          Chevrolet (Glory Glory Manchester United FC – Legends)
+          <br />
+          Casillero Del Diablo (Wine)
+          <br />
+          Castrol
+          <br />
+          Camelot
+          <br />
+          Car Craft
+          <br />
+          Centre Parcs
+          <br />
+          Chessington World Of Adventure Resort
+          <br />
+          Chicago Town Pizza
+          <br />
+          Costcutter
+          <br />
+          Colour Roll Wallpaper
           <br />
           Collection 2000
           <br />
-          Co-Operative (British music experience)
+          Co-Op Funeral Care
+          <br />
+          Co-Operative (British Music Experience)
+          <br />
+          Co-Operative (Car Insurance)
+          <br />
+          Crabbies Ginger Beer
+          <br />
+          Cravendale
+          <br />
+          Cross &amp; Blackwell
+          <br />
+          Cross Country Trains (Take Us On Your Journey)
+          <br />
+          Crunchyroll (Lisandro Martinez – Manchester United FC)
+          <br />
+          CSL Sofas
+          <br />
+          Cussons Soap
+          <br />
+          DAZ (Washing Powder)
           <br />
           Damart
           <br />
-          Dare2B (Ski wear / Urban wear)
+          Dare2B (Ski Wear / Urban Wear)
           <br />
           Dawsons Cashmere
+          <br />
+          Davina McCall (Love On A Saturday Night)
           <br />
           Designer Outlet, Cheshire Oaks (McArthur Glen)
           <br />
           Designer Outlet, Gloucester Quay (Peel Holdings)
           <br />
-          Freemans catalogue
+          Dioralyte
           <br />
-          Fruit of the loom
-          <br />
-          Grattan (Curvissa / Look Again)
-          <br />
-          Get the Label
-          <br />
-          George at Asda
-          <br />
-          Hamnett fashion collection
-          <br />
-          Intu Uxbridge
-          <br />
-          JD Williams (fashion world)
-          <br />
-          JK Metals
-          <br />
-          Lowry Outlet Mall (Salford Quays)
-          <br />
-          Marks &#038; Spencer
-          <br />
-          Mamas &#038; Papas
-          <br />
-          NWDA (North West Designers Agency)
-          <br />
-          Purestuff (Look Book)
-          <br />
-          Redinc Ltd Ringspun / Marmalde (Look Book)
-          <br />
-          SAFC Pharmaceuticals
-          <br />
-          Scholl
-          <br />
-          Sirdar Knitwear
-          <br />
-          Stirling Lingerie
-          <br />
-          <span className="text-accent">
-            <strong>Beauty Brands</strong>
-          </span>
-          <br />
-          Bonjela
-          <br />
-          Cussons
-          <br />
-          Gillette razors (Manchester Utd player, Park Ji-Sung)
-          <br />
-          GHD
-          <br />
-          Head &#038; Shoulders (Jo Hart)
-          <br />
-          Imperial Leather
-          <br />
-          Nivea
-          <br />
-          Olay (China)
-          <br />
-          Rapid White (Toothpaste)
-          <br />
-          Tresemme
-          <br />
-          Venus (razors)
-          <br />
-          <span className="text-accent">
-            <strong>Leisure</strong>
-          </span>
-          <br />
-          Camelot
-          <br />
-          Centre Parcs
+          Domino’s Pizza
           <br />
           Drayton Manor
           <br />
-          English Heritage
-          <br />
-          Hoeseasons
-          <br />
-          Jet 2<br />
-          Kayak
-          <br />
-          Travelodge
-          <br />
-          Warwick Castle
-          <br />
-          <span className="text-accent">
-            <strong>Cars</strong>
-          </span>
-          <br />
-          Co-Operative (car insurance)
-          <br />
-          Car Craft
-          <br />
-          Ford (feel the difference)
-          <br />
-          The Car People
-          <br />
-          We Buy Any Car
-          <br />
-          <span className="text-accent">
-            <strong>Promos</strong>
-          </span>
-          <br />
-          1 Direction (Pop band)
-          <br />
-          BBC (Red Bee Media)
-          <br />
-          The Chase, (TV promo)
-          <br />
-          Davina MaCall (Love on a Saturday Night)
-          <br />
-          <span className="text-accent">
-            <strong>Editorials</strong>
-          </span>
-          <br />
-          Flux Magazine
-          <br />
-          Grazia Magazine
-          <br />
-          Jump Magazine
-          <br />
-          Minx Magazine
-          <br />
-          Revolve Wire Magazine
-          <br />
-          Talk Magazine (USA)
-          <br />
-          Urban Life Magazine (London)
-          <br />
-          <span className="text-accent">
-            <strong>Talks</strong>
-          </span>
-          <br />
-          Mid Cheshire College
-          <br />
-          Manchester Fashion Network
-          <br />
-          Oldham College
-          <br />
-          <span className="text-accent">
-            <strong>Drink</strong>
-          </span>
-          Baileys
-          <br />
-          Casillero Del Diablo (Wine)
-          <br />
-          Crabbies Ginger Beer
-          <br />
-          Fosters lager
-          <br />
-          Gordon&#8217;s Gin
-          <br />
-          Lambrini
-          <br />
-          Lucozade
-          <br />
-          Nescafé Algeria
-          <br />
-          Pepsi
-          <br />
-          Revolution bar
-          <br />
-          Tsingtao Beer
-          <br />
-          Vodkats (drink mixers)
-          <br />
-          Zamereto (Drink Mixers)
-          <br />
-          <span className="text-accent">
-            <strong>Food</strong>
-          </span>
-          <br />
-          Chicago Town Pizza
-          <br />
-          Cross &amp; Blackwell
-          <br />
-          Domino&#8217;s Pizza
-          <br />
-          Farm foods
-          <br />
-          Fishermans Friend
-          <br />
-          Florette salads
-          <br />
-          Iceland Foods
-          <br />
-          Kellogg&#8217;s
-          <br />
-          Mars
-          <br />
-          McDonalds
-          <br />
-          Poole&#8217;s pies
-          <br />
-          Robinson fruit shoots
-          <br />
-          Pukka Pies
-          <br />
-          Shreddies
-          <br />
-          Waitrose
-          <br />
-          Weet-Bix (Australia)
-          <br />
-          <span className="text-accent">
-            <strong>Game Stations</strong>
-          </span>
-          <br />
-          Game Station (Justin Moorhouse)
-          <br />
-          Play Station 2 (Singstar 80&#8217;s)
-          <br />
-          Realtime UK (Kinect)
-          <br />
-          Sony PSP
-          <br />
-          <span className="text-accent">
-            <strong>Interiors / Appliances</strong>
-          </span>
-          <br />
-          Arthouse (Wallpaper)
-          <br />
-          Alrighi Bianchi
-          <br />
-          Appliances online
-          <br />
-          B&amp;Q (kitchens &amp; bathrooms)
-          <br />
-          Benson&#8217;s for Bed&#8217;s
-          <br />
-          Colour Roll Wallpaper
-          <br />
-          CSL Sofa&#8217;s
-          <br />
-          Euronics (electronics)
-          <br />
-          Harvey&#8217;s Furniture
-          <br />
-          Kitchens Direct
-          <br />
-          Magnet Kitchens
-          <br />
-          Oak Furnitureland
-          <br />
-          Reid&#8217;s Furniture
-          <br />
-          Sharp / Moben / Dolphin
-          <br />
-          Victoria Plumb (Bathrooms)
-          <br />
-          <span className="text-accent">
-            <strong>Brands</strong>
-          </span>
-          <br />
-          Barbie
-          <br />
-          BRMB (Birmingham hits music Station)
-          <br />
-          Chevrolet
-          <br />
-          Costcutter
-          <br />
-          Cussons
-          <br />
-          DAZ
-          <br />
-          Dioralyte
-          <br />
-          Dulux
+          Dulux Paint
           <br />
           Durex
           <br />
-          Harpic / Dettol / Cillit Bang
+          EA Sports (Erling Haaland – Manchester City FC)
           <br />
-          Hobby Craft
+          English Heritage
           <br />
-          Interflora
+          Erdinger Beer (Jurgen Klopp – Liverpool FC Manager)
           <br />
-          Maalox
+          Euronics (Electronics)
           <br />
-          Microsoft
+          Fabulosa
           <br />
-          Motorola
+          Farm Foods
           <br />
-          Olay (China)
+          Fellowes (Workspace Ergonomics)
           <br />
-          Preston&#8217;s of Bolton (jewellery)
+          Fisherman’s Friend
           <br />
-          Vanish
+          Florette Salads
           <br />
-          Vodaphone (Cristiano Ronaldo and Ruud van Nisterlrooy)
+          Flux Magazine
           <br />
-          <span className="text-accent">
-            <strong>
-              Betting
-              <br />
-            </strong>
-          </span>
-          188 BET
+          Fosters Lager
           <br />
-          Bet 365
+          Foot Asylum
+          <br />
+          Ford (Feel The Difference)
+          <br />
+          Freemans Catalogue
+          <br />
+          Fruit of the Loom
+          <br />
+          Game Station (Justin Moorhouse)
           <br />
           Gala Bingo
           <br />
           Genting
           <br />
-          Party Casino
+          Gordon’s Gin
           <br />
-          William Hill Bingo
+          Get The Label
           <br />
-          <span className="text-accent">
-            <strong>Corporate / Banks</strong>
-          </span>
+          George at Asda
           <br />
-          Allied London
+          GHD
           <br />
-          Argent Property&#8217;s
+          Gillette (Park Ji-Sung – Manchester United FC)
           <br />
-          M&amp;S
+          Gillette (Victor Lindelof – Manchester United FC)
+          <br />
+          Gillette (Raheem Sterling – Manchester City FC)
+          <br />
+          GLO (Odion Ighalo – Manchester United FC)
+          <br />
+          Google (Trent Alexander-Arnold – Liverpool FC)
+          <br />
+          Gola Trainers
+          <br />
+          Grattan (Curvissa / Look Again)
+          <br />
+          Grazia Magazine
+          <br />
+          Head &amp; Shoulders (Joe Hart – Manchester City FC)
+          <br />
+          Hamnett Fashion Collection
+          <br />
+          Harpic / Dettol / Cillit Bang
+          <br />
+          Harvey’s Furniture
+          <br />
+          Hilton Hotels (For The Stay)
+          <br />
+          Heinz
+          <br />
+          Heineken
+          <br />
+          Hobbycraft
+          <br />
+          Hoeseasons
+          <br />
+          Holland &amp; Barrett
+          <br />
+          Hyundai Cars (Steven Gerrard – Liverpool FC)
+          <br />
+          Iceland Foods
+          <br />
+          Imperial Leather
+          <br />
+          Intu Uxbridge
+          <br />
+          Interflora
+          <br />
+          Jackpot Joy (Paddy McGuinness &amp; Barbara Windsor)
+          <br />
+          Jet 2
+          <br />
+          JD Williams (Fashion World)
+          <br />
+          JD Sport
+          <br />
+          JK Metals
+          <br />
+          Jump Magazine
+          <br />
+          Kayak
+          <br />
+          Kellogg’s
+          <br />
+          Kitchens Direct
+          <br />
+          Lambrini
+          <br />
+          Levis (Marcus Rashford – Manchester United FC)
+          <br />
+          Liverpool FC
+          <br />
+          Lowry Outlet Mall (Salford Quays)
+          <br />
+          Lucozade
+          <br />
+          Manchester City FC
+          <br />
+          Magnet Kitchens
+          <br />
+          Marks &amp; Spencer
+          <br />
+          Mamas &amp; Papas
+          <br />
+          Maalox
+          <br />
+          Mars
+          <br />
+          McDonald’s
+          <br />
+          META
+          <br />
+          Microsoft
+          <br />
+          Minx Magazine
+          <br />
+          Motorola
+          <br />
+          Mountain View (Mo Salah – Liverpool FC)
+          <br />
+          Mr Vegas (Betting)
           <br />
           NatWest
           <br />
           Nationwide
           <br />
+          Nescafé Algeria
+          <br />
           NHS Campaign (Be A Star)
           <br />
+          Nike - Lunar Air (Mario Balotelli – Manchester United FC)
+          <br />
+          Nike – Footgolf (Wayne Rooney – Manchester United FC / Rory McIlroy –
+          Golfer)
+          <br />
+          Nivea For Men (Liverpool FC)
+          <br />
+          NWDA (North West Designers Agency)
+          <br />
+          Oak Furnitureland
+          <br />
+          OKX (Manchester City FC / Steph Houghton / Nathan Aké / Kevin De
+          Bruyne / Erling Haaland / Phil Foden / Jack Grealish)
+          <br />
+          Olay (China)
+          <br />
+          Opel Corsa (Jurgen Klopp – Liverpool FC Manager)
+          <br />
+          Ovo Energy
+          <br />
+          Party Casino
+          <br />
+          PayPal
+          <br />
+          Pepsi (Mo Salah – Liverpool FC)
+          <br />
+          PepsiCo (Mo Salah &amp; Dejan Lovren – Liverpool FC)
+          <br />
+          Poole’s Pies
+          <br />
+          PlayStation 2 (SingStar 80’s)
+          <br />
+          Pukka Pies
+          <br />
+          Purestuff (Look Book)
+          <br />
+          PUMA (Mario Balotelli)
+          <br />
+          Prime Video (Paul Pogba – Manchester United FC)
+          <br />
+          Preston’s of Bolton (Jewellery)
+          <br />
+          Ragu
+          <br />
+          Rapid White (Toothpaste)
+          <br />
+          Realtime UK (Kinect)
+          <br />
+          Reid’s Furniture
+          <br />
+          Redinc Ltd / Ringspun / Marmalade (Look Book)
+          <br />
+          Revolution Bar
+          <br />
+          Revolve Wire Magazine
+          <br />
+          Rexona Deodorant (Julian Alvarez – Manchester City FC)
+          <br />
+          Robinson Fruit Shoots
+          <br />
+          SAFC Pharmaceuticals
+          <br />
+          Saudi Telecom (Manchester United)
+          <br />
+          Scholl
+          <br />
+          Shreddies
+          <br />
+          Sharp / Moben / Dolphin
+          <br />
+          Silent Night (Beds)
+          <br />
+          Sirdar Knitwear
+          <br />
+          SKODA Kodiaq (Bradley Wiggins – Tour De France)
+          <br />
+          SKY Sports (Olympic Team – GB)
+          <br />
+          SKY Sports (Ben Stokes – Cricket Player)
+          <br />
+          Spire Healthcare
+          <br />
+          Stirling Lingerie
+          <br />
+          Strongbow
+          <br />
+          Sony PSP
+          <br />
+          Talk Magazine (USA)
+          <br />
+          TCL Inspire Greatness (Phil Foden – Manchester City FC &amp; Raphael
+          Varane – Manchester United FC)
+          <br />
+          The Car People
+          <br />
+          The Chase (TV Promo)
+          <br />
+          Tresemmé
+          <br />
+          Travelodge
+          <br />
+          Tsingtao Beer
+          <br />
+          Umbro (Manchester City)
+          <br />
+          Under Armour (Trent Alexander-Arnold – Liverpool FC)
+          <br />
+          Urban Life Magazine (London)
+          <br />
+          Vanish
+          <br />
+          Venus (Razors)
+          <br />
+          VISA
+          <br />
+          Victoria Plumb (Bathrooms)
+          <br />
+          Vodafone (Mo Salah – Liverpool FC)
+          <br />
+          Vodafone (Cristiano Ronaldo and Ruud van Nistelrooy)
+          <br />
+          Vodkats (Drink Mixers)
+          <br />
+          Waitrose
+          <br />
           W.A.W. (Waste Awareness Wales)
+          <br />
+          Warwick Castle
+          <br />
+          Weet-Bix (Australia)
+          <br />
+          We Buy Any Car
+          <br />
+          Whoop (Virgil Van Dijk – Liverpool FC / Alex Honnold – Rock Climber)
+          <br />
+          William Hill Bingo
+          <br />
+          Wish (Paul Pogba – Manchester United FC)
           <br />
           Yorkshire Clydesdale Bank
           <br />
           Yorkshire Building Society
+          <br />
+          Zamereto (Drink Mixers)
+          <br />
         </p>
       </div>
     </motion.div>
   );
 }
-
-// import { motion } from "framer-motion";
