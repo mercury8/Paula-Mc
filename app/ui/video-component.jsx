@@ -2,54 +2,7 @@
 
 import React, { useState, useEffect, useRef } from "react";
 
-const videoArray = [
-  "Comp_1.mp4",
-  "/videos/3159503381_1.mp4",
-  "/videos/05c8e927-7818df8c_1.mp4",
-  "/videos/75676034-71414eb8_1.mp4",
-  "/videos/1ddc4cc2-3e7e458b_1.mp4",
-  "/videos/1809968343_1.mp4",
-  "/videos/1ddc4cc2-3e7e458b_1_1.mp4",
-  "/videos/1811028653_1.mp4",
-  "/videos/e38f090c-0690e7c7_1_1.mp4",
-  "/videos/c43ee4e6-87d93d15_1.mp4",
-  "/videos/1ddc4cc2-3e7e458b_1_1.mp4",
-  "/videos/05c8e927-7818df8c_1_1.mp4",
-
-  "/videos/1811032018_1_1.mp4",
-  "/videos/mr_vegas_cafe_1_1.mp4",
-  "/videos/mr_vegas_cafe_1_2.mp4",
-  "/videos/4d783eac-d451ad50_1.mp4",
-  "/videos/e38f090c-0690e7c7_1.mp4",
-  "/videos/4d783eac-d451ad50_1_1.mp4",
-  "/videos/30e6164a-0240c537_1.mp4",
-  "/videos/30e6164a-0240c537_1_1.mp4",
-  "/videos/0fd8d35c-fc14264a_1.mp4",
-  "/videos/c43ee4e6-87d93d15_1_1.mp4",
-  "/videos/75676034-71414eb8_1_1.mp4",
-  "/videos/75676034-71414eb8_1.mp4",
-  "/videos/1809968343_1_1.mp4",
-  "/videos/3159503381_1_1.mp4",
-
-  "/videos/1811032018_1_1_1.mp4",
-
-  "/videos/1811032018_1.mp4",
-  "/videos/1809977048_1.mp4",
-  "/videos/1809977048_1_1.mp4",
-  "/videos/1810032448_1.mp4",
-  "/videos/1809966955_1.mp4",
-  "/videos/1809966955_1_1.mp4",
-  "/videos/1810030120_1_1.mp4",
-  "/videos/1810030120_1_1_1.mp4",
-  "/videos/1809853968_1_1.mp4",
-  "/videos/1810030120_1.mp4",
-  "/videos/1809853968_1.mp4",
-  "/videos/1809967388_1.mp4",
-  "/videos/1809967889_1.mp4",
-  "/videos/ca72fe63-69a5aa2b_1.mp4",
-  "/videos/3085620942_1_1.mp4",
-  "/videos/3085620942_1.mp4",
-];
+const videoArray = ["/videos/Comp_1.mp4"];
 
 export default function FullscreenVideoPage() {
   const [currentVideo, setCurrentVideo] = useState(0);
@@ -108,7 +61,7 @@ export default function FullscreenVideoPage() {
             ref={videoRef}
             src={videoArray[currentVideo]}
             autoPlay
-            loop={false}
+            loop={true}
             muted
             playsInline // Essential for Safari autoplay
             preload="auto" // Helps with buffering
