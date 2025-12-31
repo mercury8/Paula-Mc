@@ -17,9 +17,8 @@ module.exports = {
   ],
 };
 
-const nextConfig = {
-  output: "export",
+const nextConfig: NextConfig = {
+  /* config options here */
 };
 
-module.exports = nextConfig;
-export default withNextVideo(nextConfig as NextConfig);
+export default withNextVideo(nextConfig);
